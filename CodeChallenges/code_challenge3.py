@@ -22,8 +22,3 @@ one_week = timedelta(weeks=1)
 next_week_date = date_entered + one_week
 
 print('One week later it will be: ' + str(next_week_date))
-
-
-
-
-

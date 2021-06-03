@@ -10,4 +10,3 @@ if price >= 1.00:
 else:
     tax = 0
     print('Tax rate is: ' + str(tax))
-

@@ -7,4 +7,3 @@ last_name = input('Enter your last name: ')
 # Make sure the first letter of first name and last name is uppercase
 # Make sure the rest of the name is lowercase
 print(first_name.capitalize() + ' ' + last_name.capitalize())
-
